@@ -1,0 +1,168 @@
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\LampinAround.dll.config
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\LampinAround.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\LampinAround.pdb
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csc.exe
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csc.exe.config
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csc.rsp
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csi.exe
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csi.exe.config
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csi.rsp
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.AppContext.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Console.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.Compression.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.Pipes.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Claims.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.ValueTuple.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.XPath.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\vbc.exe
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\vbc.exe.config
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\vbc.rsp
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\VBCSCompiler.exe
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.csprojAssemblyReference.cache
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.csproj.CoreCompileInputs.cache
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.csproj.CopyComplete
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.dll
+C:\Users\matt\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.pdb
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\LampinAround.dll.config
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\LampinAround.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\LampinAround.pdb
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csc.exe
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csc.exe.config
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csc.rsp
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csi.exe
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csi.exe.config
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\csi.rsp
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.AppContext.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Console.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.Compression.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Claims.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.ValueTuple.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\vbc.exe
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\vbc.exe.config
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\vbc.rsp
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\VBCSCompiler.exe
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.csprojAssemblyReference.cache
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.csproj.CoreCompileInputs.cache
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.csproj.CopyComplete
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.dll
+C:\Users\mcsam\OneDrive - New Brunswick Community College\aspdotnet\LampinAround\LampinAround\LampinAround\obj\Debug\LampinAround.pdb
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\LampinAround.dll.config
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\LampinAround.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\LampinAround.pdb
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\csc.exe
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\csc.exe.config
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\csc.rsp
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\csi.exe
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\csi.exe.config
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\csi.rsp
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.AppContext.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Console.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.IO.Compression.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Security.Claims.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.ValueTuple.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\vbc.exe
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\vbc.exe.config
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\vbc.rsp
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\VBCSCompiler.exe
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\obj\Debug\LampinAround.csprojAssemblyReference.cache
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\obj\Debug\LampinAround.csproj.CoreCompileInputs.cache
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\obj\Debug\LampinAround.csproj.CopyComplete
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\obj\Debug\LampinAround.dll
+D:\Classes\Year 2\Semester 1 Year 2\Server Side Web\Project\LampinAround (1)\LampinAround\LampinAround\obj\Debug\LampinAround.pdb
